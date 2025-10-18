@@ -1,11 +1,12 @@
-# 🥷🏻 Penetration Testing & Ethical Hacking
+---
+title: Alessio's Digital Garden
+draft: false
+tags:
+---
+Per qualsiasi errore, imprecisione o altro, [scrivimi una email](mailto:a.giura@studenti.unisa.it)!
 
-[[🥷🏻 Penetration Testing & Ethical Hacking/1. Introduzione|1. Introduzione]]
+Al momento, sto stilando appunti per i seguenti corsi:
+- [[🥷🏻 Penetration Testing & Ethical Hacking/index|🥷🏻 Penetration Testing & Ethical Hacking]]
+- [[🌐 Systems & Networks Security/index|🌐 Systems & Networks Security]]
+- [[🧑🏻‍💻 Secure Programming/index|🧑🏻‍💻 Secure Programming]]
 
-[[2. Eseguire un Penetration Testing]]
-
-# 🧑🏻‍💻 Secure Programming
-
-[[🧑🏻‍💻 Secure Programming/1. Introduzione|1. Introduzione]]
-
-[[2. Buffer Overrun]]

@@ -7,7 +7,10 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {},
+    links: {
+      Email: "mailto:a.giura@studenti.unisa.it",
+      GitHub: "https://github.com/nonsonoalessio",
+    },
   }),
 }
 
@@ -36,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [Component.Graph(), Component.DesktopOnly(Component.TableOfContents())],
+  right: [Component.DesktopOnly(Component.TableOfContents())],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)

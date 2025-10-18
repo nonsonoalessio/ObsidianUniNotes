@@ -1,8 +1,0 @@
-*Argomento di afferenza: [[Campo elettrico]].*
-***
-# Induzione completa
-Si ha il fenomeno dell'*induzione completa* quando tutte le linee di forza generate da un conduttore terminano su un altro conduttore.
-Nell'ipotesi in cui il guscio metallico sia inizalmente privo di carica ed isolato, quando viene introdotta una carica $Q$ nella cavità (opportunamente distribuita tra i conduttori interni), sulla superficie esterna del guscio $S_{est}$ deve comparire una carica $+Q$ tale da bilanciare (tendendo al nullo) la carica totale del guscio.
-La carica indotta $+Q$ andrà ad aggiungersi alla carica $Q'$ già presente.
-![[qInd.png]]
-==Un sistema di conduttori affacciati che gode della proprietà di induzione completa si dice **condensatore**.==

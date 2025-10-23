@@ -5,7 +5,18 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "nonsonoalessio/ObsidianUniNotes",
+        repoId: "R_kgDOQDn2Vg",
+        category: "Ideas",
+        categoryId: "DIC_kwDOQDn2Vs4Cw8E3",
+        lang: "it",
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
       Email: "mailto:a.giura@studenti.unisa.it",

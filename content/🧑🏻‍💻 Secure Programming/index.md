@@ -1,5 +1,6 @@
 ---
 title: 🧑🏻‍💻 Secure Programming
-draft: true
+draft: false
 tags:
+comments: "false"
 ---

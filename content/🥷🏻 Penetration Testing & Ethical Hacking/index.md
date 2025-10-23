@@ -1,7 +1,8 @@
 ---
 title: 🥷🏻 Penetration Testing & Ethical Hacking
-draft: true
+draft: false
 tags:
+comments: "false"
 ---
 
 

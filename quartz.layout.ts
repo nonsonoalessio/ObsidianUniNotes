@@ -18,10 +18,7 @@ export const sharedPageComponents: SharedLayout = {
     }),
   ],
   footer: Component.Footer({
-    links: {
-      Email: "mailto:a.giura@studenti.unisa.it",
-      GitHub: "https://github.com/nonsonoalessio",
-    },
+    links: {},
   }),
 }
 
@@ -33,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    // Component.ContentMeta(),
   ],
   left: [
     Component.PageTitle(),

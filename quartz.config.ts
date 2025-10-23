@@ -14,15 +14,15 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "it-IT",
-    baseUrl: "agiura.it",
+    baseUrl: "obisidianuninotes.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Roboto",
-        body: "Roboto",
+        header: "Lora",
+        body: "Lora",
         code: "Google Sans Code",
       },
       colors: {

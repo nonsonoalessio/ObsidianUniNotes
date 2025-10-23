@@ -13,14 +13,16 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p></p>
-        <ul>
+        <p>
+          Made with <i class="fa-solid fa-heart"></i> and a lot of <i class="fa-solid fa-mug-hot"></i> by Alessio @ UniSa.
+        </p>
+        {/* <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
               <a href={link}>{text}</a>
             </li>
           ))}
-        </ul>
+        </ul> */}
       </footer>
     )
   }

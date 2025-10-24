@@ -8,11 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Alessio's (digital) Garden",
+    pageTitle: "(╯°□°)╯︵ 💻",
     pageTitleSuffix: "",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: "umami",
+      host: "https://cloud.umami.is/",
+      websiteId: "d02ed88b-a2c2-408e-82ef-852a15c3d42e",
+    },
     locale: "it-IT",
     baseUrl: "obisidianuninotes.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],

@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "umami",
-      host: "https://cloud.umami.is/",
-      websiteId: "d02ed88b-a2c2-408e-82ef-852a15c3d42e",
+      host: "https://insight-1.alessiogiura.it/",
+      websiteId: "446bf0f9-f979-43f3-a09c-faaace4b770a",
     },
     locale: "it-IT",
     baseUrl: "uni.alessiogiura.it",

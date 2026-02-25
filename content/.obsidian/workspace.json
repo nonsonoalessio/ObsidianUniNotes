@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 217.5,
+    "collapsed": true
   },
   "right": {
     "id": "916e2f138fc449e5",
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "⛓️ Blockchains/2. Distributed Ledger Technologies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di index"
+              "title": "Struttura di 2. Distributed Ledger Technologies"
             }
           }
         ],
@@ -169,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +184,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c8db60cef07cc40",
+  "active": "f91ade8d4a74670c",
   "lastOpenFiles": [
+    "⛓️ Blockchains/res/Pasted image 20260225182826.png",
     "⛓️ Blockchains/index.md",
     "⛓️ Blockchains/2. Distributed Ledger Technologies.md",
     "⛓️ Blockchains/res",

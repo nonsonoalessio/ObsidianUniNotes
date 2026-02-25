@@ -1,6 +1,6 @@
 ---
 
-title: <% tp.file.title %>
+title: 3. Windows Basics
 
 draft: false
 

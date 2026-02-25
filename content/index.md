@@ -8,7 +8,9 @@ comments: false
 Per qualsiasi errore, imprecisione o altro, lascia un commento nel box sotto!
 
 Al momento, sto stilando appunti per i seguenti corsi:
+- [[⛓️ Blockchains/index|⛓️ Blockchains]]
 
+Consulta, invece, l'archivio (contiene materiale non completo):
 - [[🥷🏻 Penetration Testing & Ethical Hacking/index|🥷🏻 Penetration Testing & Ethical Hacking]]
 - [[🌐 Systems & Networks Security/index|🌐 Systems & Networks Security]]
 - [[🧑🏻‍💻 Secure Programming/index|🧑🏻‍💻 Secure Programming]]

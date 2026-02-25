@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "⛓️ Blockchains",
-      "template": "blockchains_template.md"
+      "template": "Archivio/res/templates/blockchains_template.md"
     }
   ],
   "enable_file_templates": false,

@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "umami",
       host: "https://insight-1.alessiogiura.it/",
-      websiteId: "91132d7d-eceb-4d4a-abcf-4ebcbc85ed85",
+      websiteId: "03cd781d-8bd7-4d55-9dd6-5eea54176818",
     },
     locale: "it-IT",
     baseUrl: "uni.alessiogiura.it",

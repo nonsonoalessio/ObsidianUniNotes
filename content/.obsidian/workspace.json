@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "⛓️ Blockchains/4. Hyperleger Fabric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "4. Hyperleger Fabric"
             }
           }
         ]
@@ -48,33 +48,22 @@
             }
           },
           {
-            "id": "38b655ee1d9a45ff",
+            "id": "3c1bde342827bb53",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "outline",
               "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "file": "⛓️ Blockchains/4. Hyperleger Fabric.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-search",
-              "title": "Ricerca"
-            }
-          },
-          {
-            "id": "81cae8dea6745fe1",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Segnalibri"
+              "icon": "lucide-list",
+              "title": "Struttura di 4. Hyperleger Fabric"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,93 +72,10 @@
   "right": {
     "id": "916e2f138fc449e5",
     "type": "split",
-    "children": [
-      {
-        "id": "caeae621ad8c1cd5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5c7ad5d010a0ee43",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "index.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Riferimenti a index"
-            }
-          },
-          {
-            "id": "320c96ef9f87d27e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
-            }
-          },
-          {
-            "id": "942b76c21d38c462",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etichette"
-            }
-          },
-          {
-            "id": "613421214d276983",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Tutte le proprietà"
-            }
-          },
-          {
-            "id": "3c1bde342827bb53",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "index.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Struttura di index"
-            }
-          }
-        ],
-        "currentTab": 4
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,14 +91,19 @@
   },
   "active": "f91ade8d4a74670c",
   "lastOpenFiles": [
-    "⛓️ Blockchains/index.md",
+    "⛓️ Blockchains/3. Ethereum.md",
+    "⛓️ Blockchains/4. Hyperleger Fabric.md",
+    "⛓️ Blockchains/res/Pasted image 20260304130722.png",
+    "⛓️ Blockchains/res/Pasted image 20260304115655.png",
+    "Senza nome.md",
+    "⛓️ Blockchains/2. Bitcoin.md",
+    "🌐 Systems & Networks Security/2. SELinux.md",
     "index.md",
-    "⛓️ Blockchains/2. Distributed Ledger Technologies.md",
+    "⛓️ Blockchains/index.md",
     "⛓️ Blockchains/res/Pasted image 20260225182826.png",
     "⛓️ Blockchains/res",
     "⛓️ Blockchains/res/Pasted image 20260225160542.png",
     "⛓️ Blockchains/1. Introduzione.md",
-    "Senza nome.md",
     "Archivio/magistrale2/🥷🏻 Penetration Testing & Ethical Hacking/index.md",
     "Archivio/magistrale2/🧑🏻‍💻 Secure Programming/1. Introduzione.md",
     "Archivio/magistrale2",
@@ -203,7 +114,6 @@
     "Archivio/res/templates/blockchains_template.md",
     "Archivio/res/templates/secureProgramming_template.md",
     "Archivio/res/templates/systemsAndNetworksSecurity_template.md",
-    "🌐 Systems & Networks Security/2. SELinux.md",
     "Archivio/magistrale2/🥷🏻 Penetration Testing & Ethical Hacking/1. Introduzione.md",
     "Archivio/magistrale2/🥷🏻 Penetration Testing & Ethical Hacking/2. Eseguire un Penetration Testing.md",
     "Archivio/res/templates/penTest_template.md",

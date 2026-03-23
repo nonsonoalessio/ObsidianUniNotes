@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f91ade8d4a74670c",
+            "id": "9b862b6e97d59784",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⛓️ Blockchains/4. Hyperleger Fabric.md",
+                "file": "⛓️ Blockchains/5. Cosmos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Hyperleger Fabric"
+              "title": "5. Cosmos"
             }
           }
         ]
@@ -53,26 +53,121 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⛓️ Blockchains/4. Hyperleger Fabric.md",
+                "file": "⛓️ Blockchains/5. Cosmos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di 4. Hyperleger Fabric"
+              "title": "Struttura di 5. Cosmos"
+            }
+          },
+          {
+            "id": "8a6cc0328cebd3fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "73b7b92e5a5da3ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 200
   },
   "right": {
     "id": "916e2f138fc449e5",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "1190e8b586e62941",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beeccbd8d53d2677",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🌐 Systems & Networks Security/3. Windows Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a 3. Windows Basics"
+            }
+          },
+          {
+            "id": "25ee10904c639021",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🌐 Systems & Networks Security/3. Windows Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da 3. Windows Basics"
+            }
+          },
+          {
+            "id": "faad5e905ab676c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "4f396f5ba6b3c078",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
@@ -89,13 +184,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f91ade8d4a74670c",
+  "active": "8c8db60cef07cc40",
   "lastOpenFiles": [
-    "⛓️ Blockchains/3. Ethereum.md",
+    "⛓️ Blockchains/res/Pasted image 20260323112200.png",
     "⛓️ Blockchains/4. Hyperleger Fabric.md",
+    "⛓️ Blockchains/5. Cosmos.md",
+    "⛓️ Blockchains/5. Cosmos.md",
+    "⛓️ Blockchains/res/Pasted image 20260319173413.png",
+    "⛓️ Blockchains/res/Pasted image 20260319171117.png",
+    "🌐 Systems & Networks Security/3. Windows Basics.md",
+    "⛓️ Blockchains/2. Distributed Ledger Technologies.md",
+    "Archivio/magistrale2/🌐 Systems & Networks Security/index.md",
+    "Archivio/magistrale2/🌐 Systems & Networks Security/3. Windows Basics.md",
+    "Archivio/magistrale2/🌐 Systems & Networks Security/2. SELinux.md",
+    "Archivio/magistrale2/🌐 Systems & Networks Security/1. Process Isolation in Linux.md",
+    "Archivio/magistrale2/🌐 Systems & Networks Security",
+    "🌐 Systems & Networks Security/1. Process Isolation in Linux.md",
+    "⛓️ Blockchains/3. Ethereum.md",
     "⛓️ Blockchains/res/Pasted image 20260304130722.png",
     "⛓️ Blockchains/res/Pasted image 20260304115655.png",
-    "Senza nome.md",
     "⛓️ Blockchains/2. Bitcoin.md",
     "🌐 Systems & Networks Security/2. SELinux.md",
     "index.md",
@@ -109,14 +216,11 @@
     "Archivio/magistrale2",
     "Archivio/magistrale2/🧑🏻‍💻 Secure Programming/index.md",
     "🌐 Systems & Networks Security/index.md",
-    "🌐 Systems & Networks Security/1. Process Isolation in Linux.md",
-    "🌐 Systems & Networks Security/3. Windows Basics.md",
     "Archivio/res/templates/blockchains_template.md",
     "Archivio/res/templates/secureProgramming_template.md",
     "Archivio/res/templates/systemsAndNetworksSecurity_template.md",
     "Archivio/magistrale2/🥷🏻 Penetration Testing & Ethical Hacking/1. Introduzione.md",
     "Archivio/magistrale2/🥷🏻 Penetration Testing & Ethical Hacking/2. Eseguire un Penetration Testing.md",
-    "Archivio/res/templates/penTest_template.md",
     "⛓️ Blockchains"
   ]
 }

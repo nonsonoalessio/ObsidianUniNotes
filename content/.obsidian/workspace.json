@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⛓️ Blockchains/5. Cosmos.md",
+                "file": "⛓️ Blockchains/6. Smart Contracts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Cosmos"
+              "title": "6. Smart Contracts"
             }
           }
         ]
@@ -53,13 +53,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⛓️ Blockchains/5. Cosmos.md",
+                "file": "⛓️ Blockchains/6. Smart Contracts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di 5. Cosmos"
+              "title": "Struttura di 6. Smart Contracts"
             }
           },
           {
@@ -89,7 +89,8 @@
               "title": "Segnalibri"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,38 +185,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c8db60cef07cc40",
+  "active": "3c1bde342827bb53",
   "lastOpenFiles": [
-    "⛓️ Blockchains/res/Pasted image 20260323112200.png",
-    "⛓️ Blockchains/4. Hyperleger Fabric.md",
     "⛓️ Blockchains/5. Cosmos.md",
-    "⛓️ Blockchains/5. Cosmos.md",
-    "⛓️ Blockchains/res/Pasted image 20260319173413.png",
-    "⛓️ Blockchains/res/Pasted image 20260319171117.png",
+    "⛓️ Blockchains/6. Smart Contracts.md",
     "🌐 Systems & Networks Security/3. Windows Basics.md",
+    "🌐 Systems & Networks Security/index.md",
+    "🌐 Systems & Networks Security/2. SELinux.md",
+    "🌐 Systems & Networks Security/1. Process Isolation in Linux.md",
+    "Archivio/res/Pasted image 20240802211825.png",
+    "Archivio/res/Pasted image 20251027175335.png",
+    "Archivio/res/Pasted image 20240729152949.png",
+    "Archivio/res/Pasted image 20240803160948.png",
+    "Archivio/res/Pasted image 20240729152220.png",
+    "Archivio/res/Pasted image 20250727194921.png",
+    "Archivio/res/Pasted image 20240728165438.png",
+    "Archivio/res/Pasted image 20240728165808.png",
+    "Archivio/res/Pasted image 20251008170335.png",
+    "Archivio/res/Pasted image 20250304161628.png",
+    "⛓️ Blockchains/index.md",
+    "⛓️ Blockchains/1. Introduzione.md",
     "⛓️ Blockchains/2. Distributed Ledger Technologies.md",
+    "⛓️ Blockchains/2. Bitcoin.md",
+    "⛓️ Blockchains/4. Hyperleger Fabric.md",
+    "⛓️ Blockchains/3. Ethereum.md",
+    "index.md",
     "Archivio/magistrale2/🌐 Systems & Networks Security/index.md",
     "Archivio/magistrale2/🌐 Systems & Networks Security/3. Windows Basics.md",
     "Archivio/magistrale2/🌐 Systems & Networks Security/2. SELinux.md",
     "Archivio/magistrale2/🌐 Systems & Networks Security/1. Process Isolation in Linux.md",
     "Archivio/magistrale2/🌐 Systems & Networks Security",
-    "🌐 Systems & Networks Security/1. Process Isolation in Linux.md",
-    "⛓️ Blockchains/3. Ethereum.md",
-    "⛓️ Blockchains/res/Pasted image 20260304130722.png",
-    "⛓️ Blockchains/res/Pasted image 20260304115655.png",
-    "⛓️ Blockchains/2. Bitcoin.md",
-    "🌐 Systems & Networks Security/2. SELinux.md",
-    "index.md",
-    "⛓️ Blockchains/index.md",
-    "⛓️ Blockchains/res/Pasted image 20260225182826.png",
     "⛓️ Blockchains/res",
-    "⛓️ Blockchains/res/Pasted image 20260225160542.png",
-    "⛓️ Blockchains/1. Introduzione.md",
     "Archivio/magistrale2/🥷🏻 Penetration Testing & Ethical Hacking/index.md",
     "Archivio/magistrale2/🧑🏻‍💻 Secure Programming/1. Introduzione.md",
     "Archivio/magistrale2",
     "Archivio/magistrale2/🧑🏻‍💻 Secure Programming/index.md",
-    "🌐 Systems & Networks Security/index.md",
     "Archivio/res/templates/blockchains_template.md",
     "Archivio/res/templates/secureProgramming_template.md",
     "Archivio/res/templates/systemsAndNetworksSecurity_template.md",

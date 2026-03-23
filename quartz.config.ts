@@ -19,14 +19,14 @@ const config: QuartzConfig = {
     },
     locale: "it-IT",
     baseUrl: "uni.alessiogiura.it",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", ".quartzignore"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Lora",
-        body: "Lora",
+        header: "Google Sans",
+        body: "Google Sans",
         code: "Google Sans Code",
       },
       colors: {
@@ -91,7 +91,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(),
     ],
   },
 }

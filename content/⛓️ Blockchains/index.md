@@ -1,9 +1,8 @@
 ---
-title: index
+title: ⛓️ Blockchains
 draft: false
 tags:
 comments: false
 ---
-*Questo argomento è stato trattato in #blockchains*
-***
+
 

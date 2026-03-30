@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⏮️🌐 Network Management and Security/3. Linux.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Linux"
+              "title": "index"
             }
           }
         ]
@@ -53,13 +53,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⏮️🌐 Network Management and Security/3. Linux.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di 3. Linux"
+              "title": "Struttura di index"
             }
           },
           {
@@ -186,45 +186,46 @@
   },
   "active": "c57a6f509ced19d9",
   "lastOpenFiles": [
-    "⏮️🌐 Network Management and Security/4. Modalità di rete di VirtualBox.md",
-    "⏮️🌐 Network Management and Security/5. Comunicazioni e protocolli sicuri.md",
-    "⏮️🌐 Network Management and Security/7. Network Management Concepts.md",
-    "⏮️🌐 Network Management and Security/index.md",
-    "⛓️ Blockchains/index.md",
-    "index.md",
-    "⏮️🌐 Network Management and Security/3. Linux.md",
-    "⏮️🌐 Network Management and Security/8. IDS e Firewall.md",
-    "🌐 Systems & Networks Security/3. Windows Basics.md",
     "🌐 Systems & Networks Security/index.md",
+    "🌐 Systems & Networks Security/3. Windows Basics.md",
     "🌐 Systems & Networks Security/2. SELinux.md",
     "🌐 Systems & Networks Security/1. Process Isolation in Linux.md",
+    "🌐 Systems & Networks Security",
+    "⏮️🌐 Network Management and Security/index.md",
+    "⏮️🌐 Network Management and Security/7. Network Management Concepts.md",
+    "⏮️🌐 Network Management and Security/5. Comunicazioni e protocolli sicuri.md",
+    "⏮️🌐 Network Management and Security/4. Modalità di rete di VirtualBox.md",
+    "⏮️🌐 Network Management and Security/3. Linux.md",
+    "⏮️🌐 Network Management and Security/2. Sicurezza.md",
+    "⏮️🌐 Network Management and Security/1. Gestione della rete.md",
+    "⏮️🌐 Network Management and Security",
+    "Archivio/res/Pasted image 20240729152949.png",
+    "Archivio/res/Pasted image 20240729152220.png",
+    "Archivio/res/Pasted image 20240728165438.png",
+    "Archivio/res/Pasted image 20240728165808.png",
+    "Archivio/res/Pasted image 20240729124415.png",
+    "Archivio/res/Pasted image 20240729103337.png",
+    "Archivio/res/Pasted image 20240728173004.png",
+    "Archivio/res/Pasted image 20240729101433.png",
+    "Archivio/res/Pasted image 20240728165704.png",
+    "Archivio/res/Pasted image 20240729124501.png",
     "⛓️ Blockchains/6. Smart Contracts.md",
+    "⛓️ Blockchains/index.md",
     "⛓️ Blockchains/1. Introduzione.md",
     "⛓️ Blockchains/2. Bitcoin.md",
     "⛓️ Blockchains/7. Token.md",
     "⛓️ Blockchains/4. Hyperleger Fabric.md",
     "⛓️ Blockchains/5. Cosmos.md",
     "⛓️ Blockchains/3. Ethereum.md",
+    "index.md",
+    "⏮️🌐 Network Management and Security/8. IDS e Firewall.md",
     "Senza nome.md",
     "⛓️ Blockchains/7. Token",
     "⛓️ Blockchains/2. Distributed Ledger Technologies.md",
-    "Archivio/res/Pasted image 20240802211825.png",
-    "Archivio/res/Pasted image 20251027175335.png",
-    "Archivio/res/Pasted image 20240729152949.png",
-    "Archivio/res/Pasted image 20240803160948.png",
-    "Archivio/res/Pasted image 20240729152220.png",
-    "Archivio/res/Pasted image 20250727194921.png",
-    "Archivio/res/Pasted image 20240728165438.png",
-    "Archivio/res/Pasted image 20240728165808.png",
-    "Archivio/res/Pasted image 20251008170335.png",
-    "Archivio/res/Pasted image 20250304161628.png",
     "Archivio/magistrale2/🌐 Systems & Networks Security/index.md",
     "Archivio/magistrale2/🌐 Systems & Networks Security/3. Windows Basics.md",
-    "Archivio/magistrale2/🌐 Systems & Networks Security/2. SELinux.md",
-    "Archivio/magistrale2/🌐 Systems & Networks Security/1. Process Isolation in Linux.md",
     "Archivio/magistrale2/🌐 Systems & Networks Security",
     "⛓️ Blockchains/res",
-    "Archivio/magistrale2/🥷🏻 Penetration Testing & Ethical Hacking/index.md",
     "Archivio/magistrale2",
     "⛓️ Blockchains"
   ]

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "de667b6cf83a9813",
+        "id": "2464f054dfa77436",
         "type": "tabs",
         "children": [
           {
-            "id": "9b862b6e97d59784",
+            "id": "c57a6f509ced19d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⛓️ Blockchains/7. Token.md",
+                "file": "⏮️🌐 Network Management and Security/3. Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Token"
+              "title": "3. Linux"
             }
           }
         ]
@@ -53,13 +53,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⛓️ Blockchains/7. Token.md",
+                "file": "⏮️🌐 Network Management and Security/3. Linux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di 7. Token"
+              "title": "Struttura di 3. Linux"
             }
           },
           {
@@ -89,8 +89,7 @@
               "title": "Segnalibri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,19 +184,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b862b6e97d59784",
+  "active": "c57a6f509ced19d9",
   "lastOpenFiles": [
-    "⛓️ Blockchains/6. Smart Contracts.md",
-    "⛓️ Blockchains/7. Token.md",
-    "Senza nome.md",
-    "⛓️ Blockchains/7. Token",
-    "⛓️ Blockchains/2. Bitcoin.md",
-    "⛓️ Blockchains/2. Distributed Ledger Technologies.md",
-    "⛓️ Blockchains/5. Cosmos.md",
+    "⏮️🌐 Network Management and Security/4. Modalità di rete di VirtualBox.md",
+    "⏮️🌐 Network Management and Security/5. Comunicazioni e protocolli sicuri.md",
+    "⏮️🌐 Network Management and Security/7. Network Management Concepts.md",
+    "⏮️🌐 Network Management and Security/index.md",
+    "⛓️ Blockchains/index.md",
+    "index.md",
+    "⏮️🌐 Network Management and Security/3. Linux.md",
+    "⏮️🌐 Network Management and Security/8. IDS e Firewall.md",
     "🌐 Systems & Networks Security/3. Windows Basics.md",
     "🌐 Systems & Networks Security/index.md",
     "🌐 Systems & Networks Security/2. SELinux.md",
     "🌐 Systems & Networks Security/1. Process Isolation in Linux.md",
+    "⛓️ Blockchains/6. Smart Contracts.md",
+    "⛓️ Blockchains/1. Introduzione.md",
+    "⛓️ Blockchains/2. Bitcoin.md",
+    "⛓️ Blockchains/7. Token.md",
+    "⛓️ Blockchains/4. Hyperleger Fabric.md",
+    "⛓️ Blockchains/5. Cosmos.md",
+    "⛓️ Blockchains/3. Ethereum.md",
+    "Senza nome.md",
+    "⛓️ Blockchains/7. Token",
+    "⛓️ Blockchains/2. Distributed Ledger Technologies.md",
     "Archivio/res/Pasted image 20240802211825.png",
     "Archivio/res/Pasted image 20251027175335.png",
     "Archivio/res/Pasted image 20240729152949.png",
@@ -208,11 +218,6 @@
     "Archivio/res/Pasted image 20240728165808.png",
     "Archivio/res/Pasted image 20251008170335.png",
     "Archivio/res/Pasted image 20250304161628.png",
-    "⛓️ Blockchains/index.md",
-    "⛓️ Blockchains/1. Introduzione.md",
-    "⛓️ Blockchains/4. Hyperleger Fabric.md",
-    "⛓️ Blockchains/3. Ethereum.md",
-    "index.md",
     "Archivio/magistrale2/🌐 Systems & Networks Security/index.md",
     "Archivio/magistrale2/🌐 Systems & Networks Security/3. Windows Basics.md",
     "Archivio/magistrale2/🌐 Systems & Networks Security/2. SELinux.md",
@@ -220,13 +225,7 @@
     "Archivio/magistrale2/🌐 Systems & Networks Security",
     "⛓️ Blockchains/res",
     "Archivio/magistrale2/🥷🏻 Penetration Testing & Ethical Hacking/index.md",
-    "Archivio/magistrale2/🧑🏻‍💻 Secure Programming/1. Introduzione.md",
     "Archivio/magistrale2",
-    "Archivio/magistrale2/🧑🏻‍💻 Secure Programming/index.md",
-    "Archivio/res/templates/blockchains_template.md",
-    "Archivio/res/templates/secureProgramming_template.md",
-    "Archivio/res/templates/systemsAndNetworksSecurity_template.md",
-    "Archivio/magistrale2/🥷🏻 Penetration Testing & Ethical Hacking/1. Introduzione.md",
     "⛓️ Blockchains"
   ]
 }

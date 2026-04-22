@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⛓️ Blockchains/2. Distributed Ledger Technologies.md",
+                "file": "⛓️ Blockchains/8. Digital Identity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Distributed Ledger Technologies"
+              "title": "8. Digital Identity"
             }
           }
         ]
@@ -112,9 +112,9 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🌐 Systems & Networks Security/3. Windows Basics.md",
+            "file": "⛓️ Blockchains/8. Digital Identity.md",
             "collapseAll": false,
-            "extraContext": false,
+            "extraContext": true,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🌐 Systems & Networks Security/3. Windows Basics.md",
+            "file": "⛓️ Blockchains/8. Digital Identity.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🌐 Systems & Networks Security/3. Windows Basics.md",
+            "file": "⛓️ Blockchains/8. Digital Identity.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -155,7 +155,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,6 +171,22 @@
   },
   "active": "979d61e78241eedf",
   "lastOpenFiles": [
+    "Pasted image 20260328174826.png",
+    "Pasted image 20260328174143.png",
+    "Pasted image 20260328174047.png",
+    "Pasted image 20260328173948.png",
+    "⛓️ Blockchains/8. Digital Identity.md",
+    "Pasted image 20260328171922.png",
+    "Pasted image 20260328171651.png",
+    "Pasted image 20260328171023.png",
+    "Pasted image 20260328170014.png",
+    "Pasted image 20260328165440.png",
+    "⛓️ Blockchains/res/Pasted image 20260328121903.png",
+    "⛓️ Blockchains/res/Pasted image 20260328120319.png",
+    "⛓️ Blockchains/4. Hyperleger Fabric.md",
+    "⛓️ Blockchains/2. Distributed Ledger Technologies.md",
+    "⛓️ Blockchains/2. Bitcoin.md",
+    "⛓️ Blockchains/3. Ethereum.md",
     "🌐 Systems & Networks Security/3. Windows Basics.md",
     "🌐 Systems & Networks Security/2. SELinux.md"
   ]
